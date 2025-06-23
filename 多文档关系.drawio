@@ -19,23 +19,17 @@
         <mxCell id="ESmjrOVY4_RnUygBafcC-16" value="文档一" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-250" y="300" width="100" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ESmjrOVY4_RnUygBafcC-18" target="ESmjrOVY4_RnUygBafcC-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-18" value="条目1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-170" y="380" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-19" value="条目2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="490" width="100" height="34" as="geometry" />
+          <mxGeometry x="-170" y="440" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-20" value="条目3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="550" width="100" height="34" as="geometry" />
+          <mxGeometry x="-170" y="600" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-21" value="条目4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="610" width="100" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-22" value="条目1-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="440" width="100" height="34" as="geometry" />
+          <mxGeometry x="-170" y="660" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-670" y="130" width="250" height="344" as="geometry" />
@@ -72,6 +66,12 @@
         </mxCell>
         <mxCell id="ESmjrOVY4_RnUygBafcC-10" value="条目1-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ESmjrOVY4_RnUygBafcC-24">
           <mxGeometry x="150" y="140" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ESmjrOVY4_RnUygBafcC-25" value="条目2-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="500" width="100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ESmjrOVY4_RnUygBafcC-26" value="条目2-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="550" width="100" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
