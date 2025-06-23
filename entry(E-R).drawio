@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wKHZzft86tr8OuZRU47g-1" value="条目" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="wKHZzft86tr8OuZRU47g-1" value="条目" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wKHZzft86tr8OuZRU47g-2" value="id&lt;div&gt;（唯一标识）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="100" height="40" as="geometry" />
+        <mxCell id="wKHZzft86tr8OuZRU47g-2" value="id&lt;div&gt;（唯一标识）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wKHZzft86tr8OuZRU47g-3" value="name&lt;br&gt;&lt;div&gt;（名称）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wKHZzft86tr8OuZRU47g-4" value="&lt;span style=&quot;color: rgb(31, 41, 55); font-family: AlibabaPuHuiTi-3-55-Regular; text-align: left; text-wrap-mode: nowrap; background-color: rgb(229, 231, 235);&quot;&gt;version&lt;/span&gt;&lt;br&gt;&lt;div&gt;（版本）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wKHZzft86tr8OuZRU47g-5" value="&lt;span style=&quot;color: rgb(31, 41, 55); font-family: AlibabaPuHuiTi-3-55-Regular; text-align: left; text-wrap-mode: nowrap; background-color: rgb(230, 232, 236);&quot;&gt;priority&lt;/span&gt;&lt;br&gt;&lt;div&gt;（优先级）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
