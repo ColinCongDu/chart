@@ -1,14 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="CRrwzNwL84S7TwEgDiFB">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncJ0TSIUCOc-_DsgblCG-6" target="ncJ0TSIUCOc-_DsgblCG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ncJ0TSIUCOc-_DsgblCG-6" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="100" height="60" as="geometry" />
+          <mxGeometry x="330" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ncJ0TSIUCOc-_DsgblCG-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="585" width="100" height="60" as="geometry" />
+          <mxGeometry x="330" y="640" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncJ0TSIUCOc-_DsgblCG-8" target="ncJ0TSIUCOc-_DsgblCG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-8" value="选择引用的源文档" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncJ0TSIUCOc-_DsgblCG-9" target="ncJ0TSIUCOc-_DsgblCG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-9" value="选择文档下&lt;div&gt;引用的源条目&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncJ0TSIUCOc-_DsgblCG-11" target="ncJ0TSIUCOc-_DsgblCG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-11" value="选择需要挂载&lt;div&gt;的目标条目&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncJ0TSIUCOc-_DsgblCG-12" target="ncJ0TSIUCOc-_DsgblCG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncJ0TSIUCOc-_DsgblCG-12" value="&lt;div&gt;把源条目添加到目标条目下，并添加标记&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="550" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
