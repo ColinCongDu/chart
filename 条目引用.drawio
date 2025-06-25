@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vZTcNYTcIUKXKNMlmsxw-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#60a917;" edge="1" parent="1" source="vZTcNYTcIUKXKNMlmsxw-8" target="vZTcNYTcIUKXKNMlmsxw-25">
+        <mxCell id="vZTcNYTcIUKXKNMlmsxw-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#d5e8d4;" edge="1" parent="1" source="vZTcNYTcIUKXKNMlmsxw-8" target="vZTcNYTcIUKXKNMlmsxw-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vZTcNYTcIUKXKNMlmsxw-41" value="引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;fontColor=light-dark(#2d7600, #ededed);labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="vZTcNYTcIUKXKNMlmsxw-40">
