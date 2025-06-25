@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="PSdYdUbgip1_zSNlmaH4">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-2" target="X9wZa1wtlQvv_I2WAV2Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-3" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-5" target="X9wZa1wtlQvv_I2WAV2Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-5" value="选择关系类型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-7" target="X9wZa1wtlQvv_I2WAV2Z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-7" value="选择文件夹目录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-9" target="X9wZa1wtlQvv_I2WAV2Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-9" value="选择需要分发&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;条目&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-11" target="X9wZa1wtlQvv_I2WAV2Z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-11" value="在文件夹下创建新的文档" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9wZa1wtlQvv_I2WAV2Z-12" target="X9wZa1wtlQvv_I2WAV2Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9wZa1wtlQvv_I2WAV2Z-12" value="创建条目间的关联关系" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
