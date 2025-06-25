@@ -82,18 +82,18 @@
         <mxCell id="ESmjrOVY4_RnUygBafcC-26" value="条目2-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ESmjrOVY4_RnUygBafcC-32" vertex="1">
           <mxGeometry x="150" y="250" width="100" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="ESmjrOVY4_RnUygBafcC-1" target="ESmjrOVY4_RnUygBafcC-19" edge="1">
+        <mxCell id="ESmjrOVY4_RnUygBafcC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="ESmjrOVY4_RnUygBafcC-1" target="ESmjrOVY4_RnUygBafcC-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-36" value="引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#001dbc, #ededed);" parent="ESmjrOVY4_RnUygBafcC-35" vertex="1" connectable="0">
+        <mxCell id="ESmjrOVY4_RnUygBafcC-36" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#005700, #ededed);" parent="ESmjrOVY4_RnUygBafcC-35" vertex="1" connectable="0">
           <mxGeometry x="-0.0364" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="ESmjrOVY4_RnUygBafcC-4" target="ESmjrOVY4_RnUygBafcC-21" edge="1">
+        <mxCell id="ESmjrOVY4_RnUygBafcC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" source="ESmjrOVY4_RnUygBafcC-4" target="ESmjrOVY4_RnUygBafcC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-38" value="复制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#005700, #ededed);" parent="ESmjrOVY4_RnUygBafcC-37" vertex="1" connectable="0">
+        <mxCell id="ESmjrOVY4_RnUygBafcC-38" value="满足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#bd7000, #ededed);" parent="ESmjrOVY4_RnUygBafcC-37" vertex="1" connectable="0">
           <mxGeometry x="-0.3088" y="-8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="ESmjrOVY4_RnUygBafcC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="ESmjrOVY4_RnUygBafcC-25" target="ESmjrOVY4_RnUygBafcC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ESmjrOVY4_RnUygBafcC-40" value="引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#001dbc, #ededed);" parent="ESmjrOVY4_RnUygBafcC-39" vertex="1" connectable="0">
+        <mxCell id="ESmjrOVY4_RnUygBafcC-40" value="衍生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=light-dark(#001dbc, #ededed);" parent="ESmjrOVY4_RnUygBafcC-39" vertex="1" connectable="0">
           <mxGeometry x="0.0154" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
