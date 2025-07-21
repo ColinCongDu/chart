@@ -1,23 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="dykl-ykYbotfWQ13G0Qm">
-    <mxGraphModel dx="1665" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4fXa-N7wmwI1IU0KqZbL-2" value="模型梳理定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="230" height="40" as="geometry" />
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fXa-N7wmwI1IU0KqZbL-2" target="4fXa-N7wmwI1IU0KqZbL-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fXa-N7wmwI1IU0KqZbL-5" value="数据获取及联动关系定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="230" height="40" as="geometry" />
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="4fXa-N7wmwI1IU0KqZbL-2" target="AnjXSomgAVZtBJv6aWpG-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fXa-N7wmwI1IU0KqZbL-6" value="前端页面渲染逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="230" height="40" as="geometry" />
+        <mxCell id="4fXa-N7wmwI1IU0KqZbL-2" value="模型梳理定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fXa-N7wmwI1IU0KqZbL-8" value="数据使用维护逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="230" height="40" as="geometry" />
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4fXa-N7wmwI1IU0KqZbL-5" target="4fXa-N7wmwI1IU0KqZbL-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fXa-N7wmwI1IU0KqZbL-9" value="数据使用维护逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="470" width="230" height="40" as="geometry" />
+        <mxCell id="4fXa-N7wmwI1IU0KqZbL-5" value="数据获取及联动关系定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fXa-N7wmwI1IU0KqZbL-6" target="4fXa-N7wmwI1IU0KqZbL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fXa-N7wmwI1IU0KqZbL-6" value="前端页面渲染逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fXa-N7wmwI1IU0KqZbL-8" target="4fXa-N7wmwI1IU0KqZbL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fXa-N7wmwI1IU0KqZbL-8" value="数据使用维护逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fXa-N7wmwI1IU0KqZbL-9" value="数据使用维护逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-8" value="步骤一" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-9" value="步骤二" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-10" value="步骤三" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-11" value="步骤四" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="365" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnjXSomgAVZtBJv6aWpG-12" value="步骤五" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="445" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
