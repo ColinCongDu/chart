@@ -25,9 +25,6 @@
         <mxCell id="WAmFya9lD29ScdtYWTkB-29" value="name&lt;br&gt;&lt;div&gt;（名称）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WAmFya9lD29ScdtYWTkB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAmFya9lD29ScdtYWTkB-30" target="WAmFya9lD29ScdtYWTkB-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WAmFya9lD29ScdtYWTkB-30" value="&lt;span style=&quot;color: rgb(31, 41, 55); font-family: AlibabaPuHuiTi-3-55-Regular; text-align: left; text-wrap-mode: nowrap;&quot;&gt;cabinetRef&lt;/span&gt;&lt;br&gt;&lt;div&gt;（文件柜）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="100" height="40" as="geometry" />
         </mxCell>
